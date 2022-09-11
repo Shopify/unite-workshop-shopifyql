@@ -1,6 +1,6 @@
-# ShopifyQL: A Data Querying Language Built for Commerce
+# Shopify Unite '22 - ShopifyQL: A Data Querying Language Built for Commerce
 
-This repo is intended to go along with the [this workshop](https://shopify.github.io/workshops/codelabs/shopifyql-with-polaris-viz/#0). It was built using the app template provided by the [Shopify CLI](https://shopify.dev/apps/tools/cli).
+Hello and welcome to the [**Use Rust to create a Shopify Discount Function** workshop](https://shopify.github.io/workshops/codelabs/shopifyql-with-polaris-viz/index.html?index=./workshops#0) for Shopify Unite '22.
 
 ## Tech Stack
 
