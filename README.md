@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Shopify Unite '22 - ShopifyQL: A Data Querying Language Built for Commerce
 
 Hello and welcome to the [**Use Rust to create a Shopify Discount Function** workshop](https://shopify.github.io/workshops/codelabs/shopifyql-with-polaris-viz/index.html?index=./workshops#0) for Shopify Unite '22.
